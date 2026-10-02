@@ -11,6 +11,8 @@ website:
         href: index.qmd 
       - text: Projects
         href: projects.qmd
+      - text: Resume
+        href: resume.qmd
         
 format: 
   html: 
