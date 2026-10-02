@@ -1,0 +1,16 @@
+---
+title: "Caleb Duncan" 
+image: headshot.jpg 
+about: 
+  template: jolla 
+  links: 
+    - icon: github 
+      text: GitHub 
+      href: https://github.com/Caleb-Duncan0719 
+    - icon: linkedin 
+      text: LinkedIn 
+      href: https://linkedin.com/in/caleb-duncan-72305b432 
+    - icon: inboxes 
+      text: Contact 
+      href: mailto:cd159@uark.edu ---
+---
