@@ -4,7 +4,7 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "&lt;iframe width=“800” height=“1000”\nsrc=“resume.pdf”&gt;"
+    "text": "&lt;iframe width=“800” height=“1000” src=“resume.pdf”&gt;"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -33,5 +33,12 @@
     "title": "Projects",
     "section": "",
     "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 1, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Caleb Duncan",
+    "section": "",
+    "text": "Caleb Duncan is an Industrial Engineering & Operation Analytics student at the University of Arkansas with experience in customer service, mentoring, leadership, and student engagement. He has a proven ability to communicate effectively, solve problems in fast-paced environments, and build strong relationships with diverse groups. He is seeking opportunities to apply technical and leadership skills in engineering, operations, or manufacturing roles."
   }
 ]
